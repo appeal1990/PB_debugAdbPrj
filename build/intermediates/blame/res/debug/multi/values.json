@@ -1,0 +1,372 @@
+[
+    {
+        "outputFile": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 57,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 55,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 52,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 52,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 43,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 43,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 62,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 62,
+                        "endOffset": 784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 54,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 54,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 101,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 101,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 126,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endColumn": 126,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 46,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 46,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 52,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 52,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 82,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 82,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 50,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 789,
+                        "endColumn": 50,
+                        "endOffset": 835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 145,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 149,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1043,
+                    "endColumn": 68,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 920,
+                        "endColumn": 68,
+                        "endOffset": 984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endColumn": 79,
+                    "endOffset": 1187
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 840,
+                        "endColumn": 79,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1192,
+                    "endColumn": 100,
+                    "endOffset": 1288
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 100,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1293,
+                    "endColumn": 52,
+                    "endOffset": 1341
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 52,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1346,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "/home/jaime/work/ASworkspace/PB_debugAdbPrj/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

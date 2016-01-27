@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">wifiDebug</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_adb_cm">Android 调试</string>
+    <string name="enable_adb_summary_cm">开启 Android Debug Bridge (adb) 界面</string>
+    <string name="adb_over_network">网络 ADB 调试</string>
+    <string name="adb_over_network_summary">通过网络接口 (Wi\u2011Fi，USB 网络) 启用 TCP/IP 调试。该设置重启后失效</string>
+    <string name="adb_over_network_warning">警告：当网络 ADB 调试启用时，您的设备将在所有已连接的网络上接收指令！\n\n请只在您信任的网络中启用此功能。\n\n您真的要开启这个功能吗？</string>
+
+    <string name="adb_notify">调试通知</string>
+    <string name="adb_notify_summary">已开启 USB 或网络调试通知</string>
+    <string name="enable_wifi_adb">Wifi调试</string>
+    <string name="enable_wifi_adb_openwifi">Wifi尚未连接，请先连接wifi，然后再进行调试！</string>
+    <string name="enable_wifi_adb_openusb">USB调试未开启，请先打开！！！</string>
+    <string name="enable_wifi_adb_summary">通过网络接口 (Wi\u2011Fi，USB 网络) 启用 TCP/IP 调试。该设置重启后失效</string>
+    <string name="enable_wifi_adb_connected_summary">Wifi调试已打开,请在电脑端输入以下命令进行调试:\n   adb connect <xliff:g id="ip_address">%1$s</xliff:g>:5555</string>
+
+</resources>

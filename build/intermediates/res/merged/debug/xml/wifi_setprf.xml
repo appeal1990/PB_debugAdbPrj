@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="set_debug"
+        android:title="调试设置" />
+
+    <SwitchPreference
+        android:key="enable_wifi_adb"
+        android:summary="通过wifi来连接adb调试应用程序"
+        android:title="使用wifi调试"></SwitchPreference>
+
+</PreferenceScreen>
