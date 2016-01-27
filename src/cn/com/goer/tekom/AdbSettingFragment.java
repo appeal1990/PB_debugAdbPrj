@@ -20,7 +20,14 @@ import android.preference.PreferenceScreen;
 import android.preference.SwitchPreference;
 import android.provider.Settings;
 import android.util.Log;
-
+/**
+ * Description:
+ *
+ * @package : com.goer.tekom / PB_debugAdbPrj
+ * @author : jaime
+ * @email : appeal1990@hotmail.com
+ * @since : 2016-01-27
+ */
 public class AdbSettingFragment extends PreferenceFragment implements OnClickListener, OnDismissListener {
 
     private static final String TAG = AdbSettingFragment.class.getSimpleName();

@@ -19,7 +19,14 @@ import android.provider.Settings;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-
+/**
+ * Description:
+ *
+ * @package : com.goer.tekom / PB_debugAdbPrj
+ * @author : jaime
+ * @email : appeal1990@hotmail.com
+ * @since : 2016-01-27
+ */
 public class MainActivity extends Activity {
 
     private static final String TAG = MainActivity.class.getSimpleName();
