@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PB_debugAdbPrj.iml" filepath="$PROJECT_DIR$/PB_debugAdbPrj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PB_wifidebugPrj.iml" filepath="$PROJECT_DIR$/PB_wifidebugPrj.iml" />
     </modules>
   </component>
 </project>
