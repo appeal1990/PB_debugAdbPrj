@@ -23,7 +23,7 @@ import android.util.Log;
 /**
  * Description:
  *
- * @package : com.goer.tekom / PB_debugAdbPrj
+ * @package : com.goer.tekom / PB_wifidebugPrj
  * @author : jaime
  * @email : appeal1990@hotmail.com
  * @since : 2016-01-27
