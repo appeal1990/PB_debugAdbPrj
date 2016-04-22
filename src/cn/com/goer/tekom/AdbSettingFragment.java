@@ -71,8 +71,8 @@ public class AdbSettingFragment extends PreferenceFragment implements OnClickLis
     }
 
     private void updateAdbOverNetwork() {
-        int adbenable = Settings.Global.getInt(getActivity().getContentResolver(), Settings.Global.ADB_ENABLED, 0);
-        if (adbenable != 0) { //判断是否开启USB调试
+        int adbEnable = Settings.Global.getInt(getActivity().getContentResolver(), Settings.Global.ADB_ENABLED, 0);
+        if (adbEnable != 0) { //判断是否开启USB调试
             int port = Settings.Global.getInt(getActivity().getContentResolver(), ADB_WIFI_ENABLED_KEY_PORT, 0);
             Log.d(TAG, "  port = " + port);
             boolean enabled = port > 0;

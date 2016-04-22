@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jaime/work/ASworkspace/PB_wifidebugPrj/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="/home/jaime/work/ASworkspace/PB_wifidebugPrj/build/intermediates/pre-dexed/debug/android-support-v4_b3216a69e8046e2fe2c251f9a22fe32914d747b5.jar" />
+    </item>
+
+</items>

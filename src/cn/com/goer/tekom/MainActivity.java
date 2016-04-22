@@ -116,7 +116,7 @@ public class MainActivity extends Activity {
                         AdbSettingFragment.mEnableWifiAdb.setSummary(getResources().getString(R.string.enable_wifi_adb_connected_summary, ipAddressString));
                     }
                 }
-                Log.i(TAG, getResources().getString(R.string.enable_wifi_adb_connected_summary) + "   " + ipAddressString + String.valueOf(port));
+                Log.i(TAG, "  ip:  " + ipAddressString +":"+ String.valueOf(port));
             } else if (wifi == State.DISCONNECTED || wifi == State.DISCONNECTING) {
                 Log.i(TAG, "wifi disconnected");
                 if (isAdbWifiChecked) {
